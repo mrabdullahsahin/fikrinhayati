@@ -2,24 +2,27 @@
 Hayata geçirilmiş olan fikirlerin, projelerin ve uygulamaların geliştirilme süreçlerini diğer geliştiriciler ile paylaşan bir projedir.
 
 > Selamlar, Ben Abdullah ŞAHİN. iOS geliştiricisi, tasarımcı ve aynı zamanda meraklı biriyim.
-
 > * Benimle [**buradan**](mailto:abdullah@kodaman.io) iletişime geçebilirsiniz.
 
 
 # Fikrin Hayatı Soruları
-1. Fikrinizden bahsedebilir misiniz?
-2. Fikri kaç kişi ile birlikte geliştirdiniz ve kimler hangi pozisyonda yer aldı?
-3. Fikrin planını nasıl yaptınız, bitiş tarihlerini belirlerken nelere dikkat ettiniz? Bitiş tarihleri nelerdi?
-4. Fikrinizde görev takibi ve görev paylaşımı için hangi servisleri veya araçları kullandınız?
-5. Fikrin tasarım sürecinde hangi araçları/kütüphaneleri kullandınız ve nasıl bir süreç izlediniz?
-6. Fikrin geliştirme sürecinde hangi araçları/kütüphaneleri kullandınız ve nasıl bir süreç izlediniz?
-7. Fikri geliştirirken ve tasarlarken karşılaştığınız en büyük zorluk ne oldu?
-8. Bu fikir aracılığı ile gelecekte hayata geçireceğiniz fikirleriniz için neler öğrendiniz? Edindiğiniz tecrübeler neler oldu?
-9. Bu tarz projeler geliştirmek ve yer almak isteyen kişiler için neler tavsiye edersiniz?
-10. Fikrinizin sürecini adım adım özetleyebilir misiniz?
+
+1. Bize kendinden bahsedebilir misin? Kimsin, ne yapıyorsun?
+2. Fikrinizden bahsedebilir misiniz?
+3. Fikri kaç kişi ile birlikte geliştirdiniz ve kimler hangi pozisyonda yer aldı?
+4. Fikrin planını nasıl yaptınız, bitiş tarihlerini belirlerken nelere dikkat ettiniz? Bitiş tarihleri nelerdi?
+5. Fikrinizde görev takibi ve görev paylaşımı için hangi servisleri veya araçları kullandınız?
+6. Fikrin tasarım sürecinde hangi araçları/kütüphaneleri kullandınız ve nasıl bir süreç izlediniz?
+7. Fikrin geliştirme sürecinde hangi araçları/kütüphaneleri kullandınız ve nasıl bir süreç izlediniz?
+8. Fikri geliştirirken ve tasarlarken karşılaştığınız en büyük zorluk ne oldu?
+9. Bu fikir aracılığı ile gelecekte hayata geçireceğiniz fikirleriniz için neler öğrendiniz? Edindiğiniz tecrübeler neler oldu?
+10. Bu tarz projeler geliştirmek ve yer almak isteyen kişiler için neler tavsiye edersiniz?
+11. Fikrinizin sürecini adım adım özetleyebilir misiniz?
 
 ***
-# Fikrin Hayatı Soruları Örnek Röportaj
+
+# Fikrin Hayatı Soruları Örnek Röportaj
+
 ###### 1. Fikrinizden bahsedebilir misiniz?
 ```
 Kullanıcıların ekran gördükleri sayıyı kaybolduktan sonra girmelerini isteyen bir zeka oyunu.
@@ -125,7 +128,8 @@ Gençlere tavsiyem sahip oldukları zamanı ve imkanları en iyi şekilde değer
 ***
 
 # Fikrin Hayatı Röportajları
-1.
+1. [Fikrin Hayatı - Abdullah ŞAHİN](https://github.com/mrabdullahsahin/fikrin-hayati/fikirler/fikrin-hayati-abdullah-sahin.md)
+2. Çok Yakında
 
 ***
 
