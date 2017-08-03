@@ -23,12 +23,17 @@ Hayata geçirilmiş olan fikirlerin, projelerin ve uygulamaların geliştirilme 
 
 # Fikrin Hayatı Soruları Örnek Röportaj
 
-###### 1. Fikrinizden bahsedebilir misiniz?
+###### 1. Bize kendinden bahsedebilir misin? Kimsin, ne yapıyorsun?
 ```
-Kullanıcıların ekran gördükleri sayıyı kaybolduktan sonra girmelerini isteyen bir zeka oyunu.
+Selamlar ben Abdullah ŞAHİN. iOS geliştiricisi, tasarımcı ve meraklı biriyim.
 ```
 
-###### 2. Fikri kaç kişi ile birlikte geliştirdiniz ve kimler hangi pozisyonda yer aldı?
+###### 2. Fikrinizden bahsedebilir misiniz?
+```
+Kullanıcıların ekranda gördükleri sayıyı kaybolduktan sonra girmelerini isteyen bir zeka oyunu.
+```
+
+###### 3. Fikri kaç kişi ile birlikte geliştirdiniz ve kimler hangi pozisyonda yer aldı?
 ```
 Fikir üç kişi ile birlikte geliştirildi. Fatih, tasarım kısmında yer aldı.
 Mehmet, iOS taradında yer aldı. Abdülhamit, Android tarafında yer aldı.
@@ -37,7 +42,7 @@ Eğer fikirde tek başınıza çalışıyorsanız tasarımından, geliştirmesin
 kadar tek başıma geliştirdim denebilir.
 ```
 
-###### 3. Fikrin planını nasıl yaptınız, bitiş tarihlerini belirlerken nelere dikkat ettiniz? Bitiş tarihleri nelerdi?
+###### 4. Fikrin planını nasıl yaptınız, bitiş tarihlerini belirlerken nelere dikkat ettiniz? Bitiş tarihleri nelerdi?
 ```
 Geliştirici burada fikrinin planını açıklar.
 A uygulamasını planlarken öncelikle uygulamanın işleyişini belirleyip, gelir modelinin neler olabileceğini maddeler halinde çıkardım.
@@ -51,12 +56,12 @@ Bitiş tarihleri
 - 15 Haziran 2017 : App Store'da yayınlama
 ```
 
-###### 4. Fikrinizde görev takibi ve görev paylaşımı için hangi servisleri veya araçları kullandınız?
+###### 5. Fikrinizde görev takibi ve görev paylaşımı için hangi servisleri veya araçları kullandınız?
 ```
 Görev takibi ve görevlerin paylaşımı için Trello aracını kullandık gibi. Bu araçta görevlerin bitiş tarihlerini takip edebildiğimiz için her an projede neredeyiz bunu takip edebiliyorduk.
 ```
 
-###### 5. Fikrin tasarım sürecinde hangi araçları/kütüphaneleri kullandınız ve nasıl bir süreç izlediniz?
+###### 6. Fikrin tasarım sürecinde hangi araçları/kütüphaneleri kullandınız ve nasıl bir süreç izlediniz?
 ```
 Fikrin tasarım sürecinde Zeplin ve Sketch araçlarını kullandık.
 Öncelikle uygulamamızda hangi ekranların yer alması gerektiğini belirledik.
@@ -65,7 +70,7 @@ Kağıt üzerinde tasarımı bitirdikten sonra Sketch ortamına aktardık. Burad
 Tasarımı geliştirici arkadaşların kod ortamına dökebilmesi için Zeplin aracını kullandık.
 ```
 
-###### 6. Fikrin geliştirme sürecinde hangi araçları/kütüphaneleri kullandınız ve nasıl bir süreç izlediniz?
+###### 7. Fikrin geliştirme sürecinde hangi araçları/kütüphaneleri kullandınız ve nasıl bir süreç izlediniz?
 ```
 Geliştirme sürecinde iOS tarafı için Xcode ortamını ve Android tarafı için Android Studio kullandık.
 
@@ -74,13 +79,13 @@ Kullandığımız Kütüphaneler
 - World: Android animasyonlarının yer aldığı bir kütüphane.
 ```
 
-###### 7. Fikri geliştirirken ve tasarlarken karşılaştığınız en büyük zorluk ne oldu?
+###### 8. Fikri geliştirirken ve tasarlarken karşılaştığınız en büyük zorluk ne oldu?
 ```
 Geliştirme ortamında çok fazla bir zorluk yaşamadık.
 Fakat tasarım ortamında baya bir zorluk yaşadık. Bu durumu aşabilmek içinde Dribbble ve Behance gibi sitelerden faydalandık.
 ```
 
-###### 8. Bu fikir aracılığı ile gelecekte hayata geçireceğiniz fikirleriniz için neler öğrendiniz? Edindiğiniz tecrübeler neler oldu?
+###### 9. Bu fikir aracılığı ile gelecekte hayata geçireceğiniz fikirleriniz için neler öğrendiniz? Edindiğiniz tecrübeler neler oldu?
 ```
 Bu fikrin bizlere öğrettiği en iyi şey yola çıkmadan önce yapmış olduğumuzun planın ve sahip olduğumuz takım arkadaşlarımızın ne kadar önemli olduğunu gösterdi.
 
@@ -88,12 +93,12 @@ Edindiğimiz tecrübeler:
 ........
 ```
 
-###### 9. Bu tarz projeler geliştirmek ve yer almak isteyen kişiler için neler tavsiye edersiniz?
+###### 10. Bu tarz projeler geliştirmek ve yer almak isteyen kişiler için neler tavsiye edersiniz?
 ```
 Gençlere tavsiyem sahip oldukları zamanı ve imkanları en iyi şekilde değerlendirmeleri.
 ```
 
-###### 10. Fikrinizin sürecini adım adım özetleyebilir misiniz?
+###### 11. Fikrinizin sürecini adım adım özetleyebilir misiniz?
 ```
 1. 5 Haziran 2017
 - Fikrin gereklilikleri ve yapısı belirlenecek.
@@ -120,7 +125,7 @@ Gençlere tavsiyem sahip oldukları zamanı ve imkanları en iyi şekilde değer
 - Test gerçekleştirilecek.
 
 8. 12 Haziran 2017
-- Xcode ortamında projenin analiz ve testi gerçekleştirilecek. Gerekli optimizasyonlar yapıalcak.
+- Xcode ortamında projenin analiz ve testi gerçekleştirilecek. Gerekli optimizasyonlar yapılacak.
 
 9. 13 Haziran 2017
 - App Store'da yayınlanacak.
@@ -128,7 +133,7 @@ Gençlere tavsiyem sahip oldukları zamanı ve imkanları en iyi şekilde değer
 ***
 
 # Fikrin Hayatı Röportajları
-1. [Fikrin Hayatı - Abdullah ŞAHİN](https://github.com/mrabdullahsahin/fikrin-hayati/fikirler/fikrin-hayati-abdullah-sahin.md)
+1. [Fikrin Hayatı - Abdullah ŞAHİN](https://github.com/mrabdullahsahin/fikrin-hayati/blob/master/fikirler/fikrin-hayati-abdullah-sahin.md)
 2. Çok Yakında
 
 ***
