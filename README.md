@@ -142,7 +142,7 @@ Gençlere tavsiyem sahip oldukları zamanı ve imkanları en iyi şekilde değer
 # Katkı Çağrısı
 Projeye katkıda bulunurken dikkat edilmesi gereken hususlar;
 1. Projeniz, Uygulamanız veya Fikriniz için burada ki soruları cevaplarken yukarıda ki sıra gözetilmelidir.
-2. Burada bulunan [ornek-roportaj.md](https://github.com/mrabdullahsahin/fikrin-hayati/blob/master/README.md)
+2. Burada bulunan [ornek-roportaj.md](https://github.com/mrabdullahsahin/fikrin-hayati/blob/master/ornek-roportaj.md)
 ] dosyasında bulunan röportaj sorularını cevapladıktan sonra `projenizin-adi-adiniz-soyadiniz.md` şeklinde kaydedip fikirler klasörüne ekleyiniz.
 3. İstek, Öneri ve Eleştirileriniz için [issues](https://github.com/mrabdullahsahin/fikrin-hayati/issues/new) açarak katkıda bulunabilirsiniz.
 4. Röportajınızın yayınlanabilmesi için `Pull Request` gönderiniz.
