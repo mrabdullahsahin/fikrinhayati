@@ -1,27 +1,4 @@
-# Fikrin Hayatı
-Hayata geçirilmiş olan fikirlerin, projelerin ve uygulamaların geliştirilme süreçlerini diğer geliştiriciler ile paylaşan bir projedir.
-
-> Selamlar, Ben Abdullah ŞAHİN. iOS geliştiricisi, tasarımcı ve aynı zamanda meraklı biriyim.
-> * Benimle [**buradan**](mailto:abdullah@kodaman.io) iletişime geçebilirsiniz.
-
-
-# Fikrin Hayatı Soruları
-
-1. Bize kendinizden bahsedebilir misiniz? Kimsiniz, ne yapıyorsunuz?
-2. Fikrinizden bahsedebilir misiniz?
-3. Fikri kaç kişi ile birlikte geliştirdiniz ve kimler hangi pozisyonda yer aldı?
-4. Fikrin planını nasıl yaptınız, bitiş tarihlerini belirlerken nelere dikkat ettiniz? Bitiş tarihleri nelerdi?
-5. Fikrinizde görev takibi ve görev paylaşımı için hangi servisleri veya araçları kullandınız?
-6. Fikrin tasarım sürecinde hangi araçları/kütüphaneleri kullandınız ve nasıl bir süreç izlediniz?
-7. Fikrin geliştirme sürecinde hangi araçları/kütüphaneleri kullandınız ve nasıl bir süreç izlediniz?
-8. Fikri geliştirirken ve tasarlarken karşılaştığınız en büyük zorluk ne oldu?
-9. Bu fikir aracılığı ile gelecekte hayata geçireceğiniz fikirleriniz için neler öğrendiniz? Edindiğiniz tecrübeler neler oldu?
-10. Bu tarz projeler geliştirmek ve yer almak isteyen kişiler için neler tavsiye edersiniz?
-11. Fikrinizin sürecini adım adım özetleyebilir misiniz? (Bonus Soru)
-
-***
-
-# Fikrin Hayatı Soruları Örnek Röportaj
+### Proje/Uygulama/Fikir Adı Röportajı
 
 ###### 1. Bize kendinden bahsedebilir misin? Kimsin, ne yapıyorsun?
 ```
@@ -98,7 +75,7 @@ Edindiğimiz tecrübeler:
 Gençlere tavsiyem sahip oldukları zamanı ve imkanları en iyi şekilde değerlendirmeleri.
 ```
 
-###### 11. Fikrinizin sürecini adım adım özetleyebilir misiniz?
+###### 11. Fikrinizin sürecini adım adım özetleyebilir misiniz? (Bonus Sorudur Cevaplamak İstemiyorsanız Lütfen Siliniz!)
 ```
 1. 5 Haziran 2017
 - Fikrin gereklilikleri ve yapısı belirlenecek.
@@ -130,21 +107,3 @@ Gençlere tavsiyem sahip oldukları zamanı ve imkanları en iyi şekilde değer
 9. 13 Haziran 2017
 - App Store'da yayınlanacak.
 ```
-***
-
-# Fikrin Hayatı Röportajları
-1. [Fikrin Hayatı - Abdullah ŞAHİN](https://github.com/mrabdullahsahin/fikrin-hayati/blob/master/fikirler/fikrin-hayati-abdullah-sahin.md)
-2. [What Happened Today in History - Yusuf DEMİRCİ](https://github.com/mrabdullahsahin/fikrin-hayati/blob/master/fikirler/what-happened-today-in-history-yusuf-demirci.md)
-3. ---Çok Yakında----
-
-***
-
-# Katkı Çağrısı
-Projeye katkıda bulunurken dikkat edilmesi gereken hususlar;
-1. Projeniz, Uygulamanız veya Fikriniz için burada ki soruları cevaplarken yukarıda ki sıra gözetilmelidir.
-2. Burada bulunan [ornek-roportaj.md](https://github.com/mrabdullahsahin/fikrin-hayati/blob/master/README.md)
-] dosyasında bulunan röportaj sorularını cevapladıktan sonra `projenizin-adi-adiniz-soyadiniz.md` şeklinde kaydedip fikirler klasörüne ekleyiniz.
-3. İstek, Öneri ve Eleştirileriniz için [issues](https://github.com/mrabdullahsahin/fikrin-hayati/issues/new) açarak katkıda bulunabilirsiniz.
-4. Röportajınızın yayınlanabilmesi için `Pull Request` gönderiniz.
-
-### İlginiz, desteğiniz ve katkılarınız için teşekkür ederim.
