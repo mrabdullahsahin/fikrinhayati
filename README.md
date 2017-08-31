@@ -135,7 +135,8 @@ Gençlere tavsiyem sahip oldukları zamanı ve imkanları en iyi şekilde değer
 # Fikrin Hayatı Röportajları
 1. [Fikrin Hayatı - Abdullah ŞAHİN](https://github.com/mrabdullahsahin/fikrin-hayati/blob/master/fikirler/fikrin-hayati-abdullah-sahin.md)
 2. [What Happened Today in History - Yusuf DEMİRCİ](https://github.com/mrabdullahsahin/fikrin-hayati/blob/master/fikirler/what-happened-today-in-history-yusuf-demirci.md)
-3. ---Çok Yakında----
+3. [Wordgraphy - Alper İskender](https://github.com/mrabdullahsahin/fikrin-hayati/blob/master/fikirler/wordgraphy-alper-iskender.md)
+4. ---Çok Yakında----
 
 ***
 
