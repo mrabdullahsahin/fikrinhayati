@@ -1,10 +1,12 @@
+# Koin Uygulaması Röportajı
+
 ## 1. Bize kendinizden bahsedebilir misiniz? Kimsiniz, ne yapıyorsunuz?
 
 Merhaba ben Göksel. Yazılım geliştiriciyim ve 5 senedir iOS platformunda geliştirme yapıyorum. Çalıştığım şirketi ilk 1 sene ikna etmek zor olsa da çıktığı günden beri Swift yazıyorum. Yazılım mimarisi ve temiz kod konusunda [yazmayı severim](https://medium.com/@gokselkoksal). Bilkent Üniversitesi Bilgisayar Mühendisliği mezunuyum. Ankara’da Mobil Atölye ve İstanbul’da Monitise’da (eski Pozitron'da) çalıştıktan sonra 6 ay önce evlenerek Dublin’e taşındım ve Verizon’da çalışmaya başladım.
 
 ## 2. Fikrinizden bahsedebilir misiniz?
 
-Bizim fikrimiz basit bir döviz kuru çevirici. İsmi [Koin](https://itunes.apple.com/us/app/koin-simple-currency-converter/id1057039641), hemen şu an App Store’dan indirebilirsiniz. İnanılmaz yenilikçiyiz gibi bir iddiamız kesinlikle yok. Mütevazi ve ufak ama bir o kadar da güzel gözüken ve kullanışlı bir uygulama yapmaktı amacımız. Bunu da başardığımızı düşünüyorum. Kısaca; Koin ile çok kullandığınız döviz kurları arasında hızlıca çeviri yapabiliyorsunuz. Kur değerleri saatlik olarak güncelleniyor ve cihazınızda saklanıyor. Bu sayede yurtdışında internet paketinizin olmadığı bir ortamda bile saklanmış en güncel değerlere göre döviz çevirisi yapabiliyorsunuz. Hedef kitlemiz de çok seyahat ve alışveriş eden, farklı kurlarla ile uğraşan insanlar tabi ki. 
+Bizim fikrimiz basit bir döviz kuru çevirici. İsmi [Koin](https://itunes.apple.com/us/app/koin-simple-currency-converter/id1057039641), hemen şu an App Store’dan indirebilirsiniz. İnanılmaz yenilikçiyiz gibi bir iddiamız kesinlikle yok. Mütevazi ve ufak ama bir o kadar da güzel gözüken ve kullanışlı bir uygulama yapmaktı amacımız. Bunu da başardığımızı düşünüyorum. Kısaca; Koin ile çok kullandığınız döviz kurları arasında hızlıca çeviri yapabiliyorsunuz. Kur değerleri saatlik olarak güncelleniyor ve cihazınızda saklanıyor. Bu sayede yurtdışında internet paketinizin olmadığı bir ortamda bile saklanmış en güncel değerlere göre döviz çevirisi yapabiliyorsunuz. Hedef kitlemiz de çok seyahat ve alışveriş eden, farklı kurlarla ile uğraşan insanlar tabi ki.
 
 Kendi sosyal ağlarımızda paylaşmak dışında bir marketing aktivitemiz olmadı. Aşağı yukarı 2 sene içerisinde 6300 indirilme aldık. Henüz 5 yıldız dışında bir değerlendirme aldığımız olmadı markette. (Hayır, hepsi tanıdık değil.)
 
@@ -20,25 +22,25 @@ Milyoner kısmı hariç gerçekten bu şekilde oldu. O anda aklımda önceden bi
 
 ## 5. Fikrinizde görev takibi ve görev paylaşımı için hangi servisleri veya araçları kullandınız?
 
-Tüm projeyi Trello, Dropbox ve Telegram üzerinden yürüttük diyebilirim. 
+Tüm projeyi Trello, Dropbox ve Telegram üzerinden yürüttük diyebilirim.
 
 ## 6-7. Fikrin tasarım/geliştirme sürecinde hangi araçları/kütüphaneleri kullandınız ve nasıl bir süreç izlediniz?
 
 Döviz kurları için [currencylayer](http://www.currencylayer.com).
 
-Tasarım için Sketch.
+Tasarım için [Sketch](https://www.sketchapp.com/).
 
-Geliştirme içinse tabi ki Xcode ve Swift. 
+Geliştirme içinse tabi ki Xcode ve Swift.
 
 Kullandığım kütüphaneler:
-* Alamofire
-* SwiftyJSON
-* DateTools
-* FLKAutoLayout
-* GKValidator :)
-* iRate
+* [Alamofire](https://github.com/Alamofire/Alamofire)
+* [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
+* [DateTools](https://github.com/MatthewYork/DateTools)
+* [FLKAutoLayout](https://github.com/floriankugler/FLKAutoLayout)
+* [GKValidator :)](https://github.com/gokselkoksal/GKValidator)
+* [iRate](https://github.com/nicklockwood/iRate)
 * pop
-* PromiseKit
+* [PromiseKit](https://github.com/mxcl/PromiseKit)
 * Realm
 
 Dışardan kullandığım kütüphaneler konusunda biraz hassasım. Birşeyi kendim yazmak bana çok zaman kaybettirmeyecekse genellikle kendim yazmayı tercih ediyorum. Her kütüphane kendi kısıtları ile beraber geliyor ve genellikle sadece ufak bir kısmı kullanılıyor. Xcode ve Swift versiyon değişikliklerinde kütüphanenin güncellenmeme ihtimali de tam bir kabus. Bu nedenle “gerçekten” ihtiyacım olduğuna inanmam gerekiyor eklemeden önce. Paylaştığım liste uzun gibi gözükse de hepsi bu değerlendirmeden geçmiş kütüphaneler.
@@ -65,3 +67,10 @@ Yeterli populariteniz ve “marketing” ağınız yoksa ağzınızla kuş da tu
 * Tasarım <-> Geri Bildirim
 * Geliştirme <-> Kullanıcı Testi (Tasarım Güncelleme)
 * Market!
+
+# Fikrin Hayatı Röportajları
+1. [Fikrin Hayatı - Abdullah ŞAHİN](https://github.com/mrabdullahsahin/fikrin-hayati/blob/master/fikirler/fikrin-hayati-abdullah-sahin.md)
+2. [What Happened Today in History - Yusuf DEMİRCİ](https://github.com/mrabdullahsahin/fikrin-hayati/blob/master/fikirler/what-happened-today-in-history-yusuf-demirci.md)
+3. [Wordgraphy - Alper İskender](https://github.com/mrabdullahsahin/fikrin-hayati/blob/master/fikirler/wordgraphy-alper-iskender.md)
+4. [Koin - Göksel Köksal](https://github.com/mrabdullahsahin/fikrin-hayati/blob/master/fikirler/koin-goksel-koksal.md)
+5. ---Çok Yakında----
