@@ -1,7 +1,7 @@
 # Fikrin Hayatı
 Hayata geçirilmiş olan fikirlerin, projelerin ve uygulamaların geliştirilme süreçlerini diğer geliştiriciler ile paylaşan bir projedir.
 
-> Selamlar, Ben Abdullah ŞAHİN. iOS geliştiricisi, tasarımcı ve aynı zamanda meraklı biriyim.
+> Selamlar, Ben Abdullah Sahin. Dijital Zanaatkar ve aynı zamanda meraklı biriyim.
 > * Benimle [**buradan**](mailto:abdullah@kodaman.io) iletişime geçebilirsiniz.
 
 
