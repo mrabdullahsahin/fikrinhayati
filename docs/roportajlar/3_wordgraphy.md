@@ -69,11 +69,4 @@ Mayıs 2017- Oyunu hayata geçirmeye karar verip, işe koyulmam.
 
 10 Ağustos 2017 - Wordgraphy Appstore'da yayın hayatına başladı.
 
-### Uygulamayı [App Store'dan](https://itunes.apple.com/us/app/wordgraphy/id1231595810?mt=8) indirebilirsiniz.
-
-# Fikrin Hayatı Röportajları
-1. [Fikrin Hayatı - Abdullah ŞAHİN](https://github.com/mrabdullahsahin/fikrin-hayati/blob/master/fikirler/fikrin-hayati-abdullah-sahin.md)
-2. [What Happened Today in History - Yusuf DEMİRCİ](https://github.com/mrabdullahsahin/fikrin-hayati/blob/master/fikirler/what-happened-today-in-history-yusuf-demirci.md)
-3. [Wordgraphy - Alper İskender](https://github.com/mrabdullahsahin/fikrin-hayati/blob/master/fikirler/wordgraphy-alper-iskender.md)
-4. [Koin - Göksel Köksal](https://github.com/mrabdullahsahin/fikrin-hayati/blob/master/fikirler/koin-goksel-koksal.md)
-5. ---Çok Yakında----
+Uygulamayı [App Store'dan](https://itunes.apple.com/us/app/wordgraphy/id1231595810?mt=8) indirebilirsiniz.

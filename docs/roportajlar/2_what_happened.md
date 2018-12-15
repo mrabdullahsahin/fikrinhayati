@@ -55,11 +55,4 @@ Bir tasarımcı ve bir backend geliştiricinin olması projeyi çok daha güzel 
 
 İnsanlar kendilerini geliştirmek istiyorlarsa yapamam dedikleri işten başlamaları gerekiyor.
 
-## Uygulamaya [Product Hunt](https://www.producthunt.com/posts/what-happened-today-in-history) sayfasında upvote vererek destek olabilir. Aynı zamanda [App Store'dan](https://itunes.apple.com/us/app/what-happened-today-in-history/id1244529732?l=tr&mt=8) indirebilirsiniz.
-
-# Fikrin Hayatı Röportajları
-1. [Fikrin Hayatı - Abdullah ŞAHİN](https://github.com/mrabdullahsahin/fikrin-hayati/blob/master/fikirler/fikrin-hayati-abdullah-sahin.md)
-2. [What Happened Today in History - Yusuf DEMİRCİ](https://github.com/mrabdullahsahin/fikrin-hayati/blob/master/fikirler/what-happened-today-in-history-yusuf-demirci.md)
-3. [Wordgraphy - Alper İskender](https://github.com/mrabdullahsahin/fikrin-hayati/blob/master/fikirler/wordgraphy-alper-iskender.md)
-4. [Koin - Göksel Köksal](https://github.com/mrabdullahsahin/fikrin-hayati/blob/master/fikirler/koin-goksel-koksal.md)
-5. ---Çok Yakında----
+Uygulamaya [Product Hunt](https://www.producthunt.com/posts/what-happened-today-in-history) sayfasında upvote vererek destek olabilir. Aynı zamanda [App Store'dan](https://itunes.apple.com/us/app/what-happened-today-in-history/id1244529732?l=tr&mt=8) indirebilirsiniz.
