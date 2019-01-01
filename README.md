@@ -1,3 +1,5 @@
+![](https://img.shields.io/github/license/mrabdullahsahin/fikrin-hayati.svg?style=for-the-badge)
+
 # Fikrin Hayatı
 Hayata geçirilmiş olan fikirlerin, projelerin ve uygulamaların geliştirilme süreçlerini diğer geliştiriciler ile paylaşan bir projedir.
 
