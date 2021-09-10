@@ -1,6 +1,6 @@
 ---
 title: "Wordgraphy Uygulaması"
-date: 2017-08-05
+date: 2017-08-31
 tags: ["fikrin hayatı","girişimcilik","wordgraphy","alper iskender"]
 author: "Abdullah Şahin"
 showToc: false
