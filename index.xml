@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Fikrin Hayatı</title>
-    <link>https://examplesite.com/</link>
+    <link>https://fikrinhayati.com/</link>
     <description>Recent content on Fikrin Hayatı</description>
     <image>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://fikrinhayati.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://fikrinhayati.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 02 Sep 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Sep 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://fikrinhayati.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Koin Uygulaması</title>
-      <link>https://examplesite.com/posts/koin/</link>
+      <link>https://fikrinhayati.com/posts/koin/</link>
       <pubDate>Sat, 02 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/posts/koin/</guid>
+      <guid>https://fikrinhayati.com/posts/koin/</guid>
       <description>Döviz kuru çevirici uygulaması.</description>
     </item>
     
     <item>
       <title>Wordgraphy Uygulaması</title>
-      <link>https://examplesite.com/posts/wordgraphy/</link>
+      <link>https://fikrinhayati.com/posts/wordgraphy/</link>
       <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/posts/wordgraphy/</guid>
+      <guid>https://fikrinhayati.com/posts/wordgraphy/</guid>
       <description>Wordgraphy, harf grupları kuralıyla oyuncunun hamle seçeneklerini kısıtlayarak oyuncuyu alternatif kelimeler düşünmeye teşvik eden bir kelime oyunu.</description>
     </item>
     
     <item>
       <title>What Happened Today in History Uygulaması</title>
-      <link>https://examplesite.com/posts/what_happened/</link>
+      <link>https://fikrinhayati.com/posts/what_happened/</link>
       <pubDate>Sat, 05 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/posts/what_happened/</guid>
+      <guid>https://fikrinhayati.com/posts/what_happened/</guid>
       <description>Belirli bir günde tarihte olan olayları gösteren bir uygulama.</description>
     </item>
     
     <item>
       <title>Fikrin Hayatı</title>
-      <link>https://examplesite.com/posts/fikrin_hayati/</link>
+      <link>https://fikrinhayati.com/posts/fikrin_hayati/</link>
       <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/posts/fikrin_hayati/</guid>
+      <guid>https://fikrinhayati.com/posts/fikrin_hayati/</guid>
       <description>Hayata geçirilmiş olan fikirlerin, projelerin ve uygulamaların geliştirilme süreçlerini diğer geliştiriciler ile paylaşan projedir. </description>
     </item>
     
