@@ -1,6 +1,6 @@
 ---
 title: "Koin Uygulaması"
-date: 2017-08-05
+date: 2017-09-02
 tags: ["fikrin hayatı","girişimcilik","koin","göksel köksal"]
 author: "Abdullah Şahin"
 showToc: false
