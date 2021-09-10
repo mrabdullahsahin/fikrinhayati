@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>girişimcilik on Fikrin Hayatı</title>
+    <link>https://examplesite.com/tags/giri%C5%9Fimcilik/</link>
+    <description>Recent content in girişimcilik on Fikrin Hayatı</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 02 Sep 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://examplesite.com/tags/giri%C5%9Fimcilik/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Koin Uygulaması</title>
+      <link>https://examplesite.com/posts/koin/</link>
+      <pubDate>Sat, 02 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/posts/koin/</guid>
+      <description>1. Bize kendinizden bahsedebilir misiniz? Kimsiniz, ne yapıyorsunuz? Merhaba ben Göksel. Yazılım geliştiriciyim ve 5 senedir iOS platformunda geliştirme yapıyorum. Çalıştığım şirketi ilk 1 sene ikna etmek zor olsa da çıktığı günden beri Swift yazıyorum. Yazılım mimarisi ve temiz kod konusunda yazmayı severim. Bilkent Üniversitesi Bilgisayar Mühendisliği mezunuyum. Ankara’da Mobil Atölye ve İstanbul’da Monitise’da (eski Pozitron&amp;rsquo;da) çalıştıktan sonra 6 ay önce evlenerek Dublin’e taşındım ve Verizon’da çalışmaya başladım.
+2. Fikrinizden bahsedebilir misiniz?</description>
+    </item>
+    
+    <item>
+      <title>Wordgraphy Uygulaması</title>
+      <link>https://examplesite.com/posts/wordgraphy/</link>
+      <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/posts/wordgraphy/</guid>
+      <description>1. Bize kendinden bahsedebilir misin? Kimsin, ne yapıyorsun? Oyun tasarımcısıyım. Akıllı telefonlar için oyun geliştiriyorum. Uzun vadede pc ve konsollara da oyun geliştirmeyi planlıyorum.
+2. Fikrinizden bahsedebilir misiniz? Wordgraphy, harf grupları kuralıyla oyuncunun hamle seçeneklerini kısıtlayarak oyuncuyu alternatif kelimeler düşünmeye teşvik eden bir kelime oyunu.
+3. Fikri kaç kişi ile birlikte geliştirdiniz ve kimler hangi pozisyonda yer aldı? Tek başıma çalıştığımdan, müzikler hariç geri kalanı benim tarafımdan geliştirildi. Oyunun müzikleri de Haim Mazar&amp;rsquo;ın eseri.</description>
+    </item>
+    
+    <item>
+      <title>What Happened Today in History Uygulaması</title>
+      <link>https://examplesite.com/posts/what_happened/</link>
+      <pubDate>Sat, 05 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/posts/what_happened/</guid>
+      <description>1. Bize kendinden bahsedebilir misin? Kimsin, ne yapıyorsun? Yusuf Demirci. Beykent Üniversitesi yazılım mühendisliği 4. sınıf öğrencisiyim. 1 yıl Akbank bünyesinde özel bir firmada Android yazdım. Son 1 yıldır ise iGones Labs&amp;rsquo;de iOS geliştirmesi yapıyorum.
+2. Fikrinizden bahsedebilir misiniz? Projemin adı kısaca What, uzunca What Happened Today in History. Belirli bir günde tarihte olan olayları gösteren bir uygulama. Aynı zamanda hikayeler özelliği ile tarihi fotoğraflar da paylaşmaya başladık.
+3. Fikri kaç kişi ile birlikte geliştirdiniz ve kimler hangi pozisyonda yer aldı?</description>
+    </item>
+    
+    <item>
+      <title>Fikrin Hayatı</title>
+      <link>https://examplesite.com/posts/fikrin_hayati/</link>
+      <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/posts/fikrin_hayati/</guid>
+      <description>Röportaj Çok Yakında Yayınlanacaktır.. İlginiz ve desteğiniz için teşekkür ederim.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>alper iskender on Fikrin Hayatı</title>
+    <link>https://examplesite.com/tags/alper-iskender/</link>
+    <description>Recent content in alper iskender on Fikrin Hayatı</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 31 Aug 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://examplesite.com/tags/alper-iskender/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wordgraphy Uygulaması</title>
+      <link>https://examplesite.com/posts/wordgraphy/</link>
+      <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/posts/wordgraphy/</guid>
+      <description>1. Bize kendinden bahsedebilir misin? Kimsin, ne yapıyorsun? Oyun tasarımcısıyım. Akıllı telefonlar için oyun geliştiriyorum. Uzun vadede pc ve konsollara da oyun geliştirmeyi planlıyorum.
+2. Fikrinizden bahsedebilir misiniz? Wordgraphy, harf grupları kuralıyla oyuncunun hamle seçeneklerini kısıtlayarak oyuncuyu alternatif kelimeler düşünmeye teşvik eden bir kelime oyunu.
+3. Fikri kaç kişi ile birlikte geliştirdiniz ve kimler hangi pozisyonda yer aldı? Tek başıma çalıştığımdan, müzikler hariç geri kalanı benim tarafımdan geliştirildi. Oyunun müzikleri de Haim Mazar&amp;rsquo;ın eseri.</description>
+    </item>
+    
+  </channel>
+</rss>
