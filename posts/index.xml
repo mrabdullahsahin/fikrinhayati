@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Fikrin Hayatı</title>
     <link>https://examplesite.com/posts/</link>
     <description>Recent content in Posts on Fikrin Hayatı</description>
+    <image>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 02 Sep 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://examplesite.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,8 +16,7 @@
       <pubDate>Sat, 02 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://examplesite.com/posts/koin/</guid>
-      <description>1. Bize kendinizden bahsedebilir misiniz? Kimsiniz, ne yapıyorsunuz? Merhaba ben Göksel. Yazılım geliştiriciyim ve 5 senedir iOS platformunda geliştirme yapıyorum. Çalıştığım şirketi ilk 1 sene ikna etmek zor olsa da çıktığı günden beri Swift yazıyorum. Yazılım mimarisi ve temiz kod konusunda yazmayı severim. Bilkent Üniversitesi Bilgisayar Mühendisliği mezunuyum. Ankara’da Mobil Atölye ve İstanbul’da Monitise’da (eski Pozitron&amp;rsquo;da) çalıştıktan sonra 6 ay önce evlenerek Dublin’e taşındım ve Verizon’da çalışmaya başladım.
-2. Fikrinizden bahsedebilir misiniz?</description>
+      <description>Döviz kuru çevirici uygulaması.</description>
     </item>
     
     <item>
@@ -22,9 +25,7 @@
       <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://examplesite.com/posts/wordgraphy/</guid>
-      <description>1. Bize kendinden bahsedebilir misin? Kimsin, ne yapıyorsun? Oyun tasarımcısıyım. Akıllı telefonlar için oyun geliştiriyorum. Uzun vadede pc ve konsollara da oyun geliştirmeyi planlıyorum.
-2. Fikrinizden bahsedebilir misiniz? Wordgraphy, harf grupları kuralıyla oyuncunun hamle seçeneklerini kısıtlayarak oyuncuyu alternatif kelimeler düşünmeye teşvik eden bir kelime oyunu.
-3. Fikri kaç kişi ile birlikte geliştirdiniz ve kimler hangi pozisyonda yer aldı? Tek başıma çalıştığımdan, müzikler hariç geri kalanı benim tarafımdan geliştirildi. Oyunun müzikleri de Haim Mazar&amp;rsquo;ın eseri.</description>
+      <description>Wordgraphy, harf grupları kuralıyla oyuncunun hamle seçeneklerini kısıtlayarak oyuncuyu alternatif kelimeler düşünmeye teşvik eden bir kelime oyunu.</description>
     </item>
     
     <item>
@@ -33,9 +34,7 @@
       <pubDate>Sat, 05 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://examplesite.com/posts/what_happened/</guid>
-      <description>1. Bize kendinden bahsedebilir misin? Kimsin, ne yapıyorsun? Yusuf Demirci. Beykent Üniversitesi yazılım mühendisliği 4. sınıf öğrencisiyim. 1 yıl Akbank bünyesinde özel bir firmada Android yazdım. Son 1 yıldır ise iGones Labs&amp;rsquo;de iOS geliştirmesi yapıyorum.
-2. Fikrinizden bahsedebilir misiniz? Projemin adı kısaca What, uzunca What Happened Today in History. Belirli bir günde tarihte olan olayları gösteren bir uygulama. Aynı zamanda hikayeler özelliği ile tarihi fotoğraflar da paylaşmaya başladık.
-3. Fikri kaç kişi ile birlikte geliştirdiniz ve kimler hangi pozisyonda yer aldı?</description>
+      <description>Belirli bir günde tarihte olan olayları gösteren bir uygulama.</description>
     </item>
     
     <item>
@@ -44,7 +43,7 @@
       <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://examplesite.com/posts/fikrin_hayati/</guid>
-      <description>Röportaj Çok Yakında Yayınlanacaktır.. İlginiz ve desteğiniz için teşekkür ederim.</description>
+      <description>Hayata geçirilmiş olan fikirlerin, projelerin ve uygulamaların geliştirilme süreçlerini diğer geliştiriciler ile paylaşan projedir. </description>
     </item>
     
   </channel>

@@ -1,1 +1,3 @@
 User-agent: *
+Disallow:
+Sitemap: https://examplesite.com/sitemap.xml

@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>koin on Fikrin Hayatı</title>
     <link>https://examplesite.com/tags/koin/</link>
     <description>Recent content in koin on Fikrin Hayatı</description>
+    <image>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 02 Sep 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://examplesite.com/tags/koin/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,8 +16,7 @@
       <pubDate>Sat, 02 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://examplesite.com/posts/koin/</guid>
-      <description>1. Bize kendinizden bahsedebilir misiniz? Kimsiniz, ne yapıyorsunuz? Merhaba ben Göksel. Yazılım geliştiriciyim ve 5 senedir iOS platformunda geliştirme yapıyorum. Çalıştığım şirketi ilk 1 sene ikna etmek zor olsa da çıktığı günden beri Swift yazıyorum. Yazılım mimarisi ve temiz kod konusunda yazmayı severim. Bilkent Üniversitesi Bilgisayar Mühendisliği mezunuyum. Ankara’da Mobil Atölye ve İstanbul’da Monitise’da (eski Pozitron&amp;rsquo;da) çalıştıktan sonra 6 ay önce evlenerek Dublin’e taşındım ve Verizon’da çalışmaya başladım.
-2. Fikrinizden bahsedebilir misiniz?</description>
+      <description>Döviz kuru çevirici uygulaması.</description>
     </item>
     
   </channel>
