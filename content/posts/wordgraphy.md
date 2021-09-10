@@ -1,4 +1,18 @@
-# Wordgraphy Uygulaması Röportajı
+---
+title: "Wordgraphy Uygulaması"
+date: 2017-08-05
+tags: ["fikrin hayatı","girişimcilik","wordgraphy","alper iskender"]
+author: "Abdullah Şahin"
+showToc: false
+TocOpen: false
+draft: false
+hidemeta: false
+comments: false
+description: "Wordgraphy, harf grupları kuralıyla oyuncunun hamle seçeneklerini kısıtlayarak oyuncuyu alternatif kelimeler düşünmeye teşvik eden bir kelime oyunu."
+disableShare: false
+disableHLJS: false
+searchHidden: true
+---
 
 ## 1. Bize kendinden bahsedebilir misin? Kimsin, ne yapıyorsun?
 

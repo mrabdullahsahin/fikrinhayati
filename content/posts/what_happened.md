@@ -1,4 +1,18 @@
-# What Happened Today in History Uygulaması Röportajı
+---
+title: "What Happened Today in History Uygulaması"
+date: 2017-08-05
+tags: ["fikrin hayatı","girişimcilik","what happened today in history","yusuf demirci"]
+author: "Abdullah Şahin"
+showToc: false
+TocOpen: false
+draft: false
+hidemeta: false
+comments: false
+description: "Belirli bir günde tarihte olan olayları gösteren bir uygulama."
+disableShare: false
+disableHLJS: false
+searchHidden: true
+---
 
 ## 1. Bize kendinden bahsedebilir misin? Kimsin, ne yapıyorsun?
 

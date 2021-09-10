@@ -1,4 +1,18 @@
-# Koin Uygulaması Röportajı
+---
+title: "Koin Uygulaması"
+date: 2017-08-05
+tags: ["fikrin hayatı","girişimcilik","koin","göksel köksal"]
+author: "Abdullah Şahin"
+showToc: false
+TocOpen: false
+draft: false
+hidemeta: false
+comments: false
+description: "Döviz kuru çevirici uygulaması."
+disableShare: false
+disableHLJS: false
+searchHidden: true
+---
 
 ## 1. Bize kendinizden bahsedebilir misiniz? Kimsiniz, ne yapıyorsunuz?
 
