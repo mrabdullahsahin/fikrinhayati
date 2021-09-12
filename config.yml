@@ -86,8 +86,8 @@ params:
         hiddenInSingle: true
 
     editPost:
-        URL: "https://github.com/<path_to_repo>/content"
-        Text: "Suggest Changes"
+        URL: "https://github.com/mrabdullahsahin/fikrinhayati/blob/master/content"
+        Text: "Değişiklik Öner"
         appendFilePath: true
 
     fuseOpts:
