@@ -2,6 +2,7 @@
 title: "Fikrin Hayatı"
 date: 2017-08-03
 tags: ["fikrin hayatı","girişimcilik"]
+slug: "fikrin-hayati-roportaji-abdullah-sahin"
 author: "Abdullah Şahin"
 showToc: true
 TocOpen: false
