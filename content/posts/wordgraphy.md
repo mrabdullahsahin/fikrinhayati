@@ -3,6 +3,7 @@ title: "Wordgraphy Uygulaması"
 date: 2017-08-31
 tags: ["fikrin hayatı","girişimcilik","wordgraphy","alper iskender","mobil uygulama"]
 slug: "wordgraphy-uygulamasi-fikrin-hayati-roportaji-alper-iskender"
+summary: Wordgraphy, harf grupları kuralıyla oyuncunun hamle seçeneklerini kısıtlayarak oyuncuyu alternatif kelimeler düşünmeye teşvik eden bir kelime oyunu.
 author: "Abdullah Şahin"
 showToc: true
 TocOpen: false

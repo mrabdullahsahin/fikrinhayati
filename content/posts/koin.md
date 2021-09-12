@@ -3,6 +3,7 @@ title: "Koin Uygulaması"
 date: 2017-09-02
 tags: ["fikrin hayatı","girişimcilik","koin","göksel köksal","mobil uygulama"]
 slug: "koin-uygulamasi-fikrin-hayati-roportaji-goksel-koksal"
+summary: Döviz kuru çevirici uygulaması.
 author: "Abdullah Şahin"
 showToc: true
 TocOpen: false
