@@ -24,7 +24,6 @@ params:
     DateFormat: "2 January 2006"
     defaultTheme: auto # dark, light
     disableThemeToggle: false
-
     ShowReadingTime: true
     ShowShareButtons: true
     ShowPostNavLinks: true
@@ -79,9 +78,8 @@ params:
           url: "https://github.com/"
 
     cover:
-        hidden: true
-        hiddenInList: true
-        hiddenInSingle: true
+        hidden: false
+        linkFullImages: true
 
     editPost:
         URL: "https://github.com/mrabdullahsahin/fikrinhayati/blob/master/content"
