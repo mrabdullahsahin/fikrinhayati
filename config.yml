@@ -115,9 +115,9 @@ params:
 menu:
     main:
         - identifier: tags
-          name: tags
+          name: Etiketler
           url: /tags/
-          weight: 20
+          weight: 10
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
