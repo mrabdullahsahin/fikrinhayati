@@ -66,11 +66,11 @@ params:
 
     socialIcons:
         - name: twitter
-          url: "https://twitter.com/"
+          url: "https://twitter.com/fikrinhayati"
         - name: github
           url: "https://github.com/mrabdullahsahin/fikrinhayati"
         - name: linkedin
-          url: "https://github.com/"
+          url: "https://linkedin.com/company/fikrin-hayati"
 
     cover:
         hidden: false
