@@ -73,10 +73,8 @@ params:
     socialIcons:
         - name: twitter
           url: "https://twitter.com/"
-        - name: stackoverflow
-          url: "https://stackoverflow.com"
         - name: github
-          url: "https://github.com/"
+          url: "https://github.com/mrabdullahsahin/fikrinhayati"
         - name: linkedin
           url: "https://github.com/"
 
