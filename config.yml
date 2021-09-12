@@ -17,7 +17,7 @@ minify:
 params:
     env: production
     title: Fikrin Hayatı
-    description: "Fikrin Hayatı, hayata geçirilmiş olan fikirlerin, projelerin ve uygulamaların geliştirilme süreçlerini diğer girişimciler ile paylaşan proje."
+    description: "Fikrin Hayatı, hayata geçirilmiş olan fikirlerin, projelerin ve uygulamaların geliştirilme süreçlerini girişimciler ile paylaşan proje."
     keywords: [girişimcilik, blog, fikrin hayatı]
     author: Me
     images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -62,7 +62,7 @@ params:
 
     homeInfoParams:
         Title: "Merhaba \U0001F44B"
-        Content: Fikrin Hayatı, hayata geçirilmiş olan fikirlerin, projelerin ve uygulamaların geliştirilme süreçlerini diğer girişimciler ile paylaşan proje. 
+        Content: Fikrin Hayatı, hayata geçirilmiş olan fikirlerin, projelerin ve uygulamaların geliştirilme süreçlerini girişimciler ile paylaşan proje. 
 
     socialIcons:
         - name: twitter
