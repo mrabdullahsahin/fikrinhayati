@@ -5,6 +5,11 @@ tags: ["fikrin hayatı","girişimcilik","wordgraphy","alper iskender","mobil uyg
 slug: "wordgraphy-uygulamasi-fikrin-hayati-roportaji-alper-iskender"
 summary: Wordgraphy, harf grupları kuralıyla oyuncunun hamle seçeneklerini kısıtlayarak oyuncuyu alternatif kelimeler düşünmeye teşvik eden bir kelime oyunu.
 author: "Abdullah Şahin"
+cover:
+    image: "wordgraphy-uygulamasi-fikrin-hayati-roportaji-alper-iskender.jpg"
+    alt: "wordgraphy uygulaması fikrin hayatı röportajı alper iskender"
+    caption: "<text>"
+    relative: false # To use relative path for cover image, used in hugo Page-bundles
 showToc: true
 TocOpen: false
 draft: false
