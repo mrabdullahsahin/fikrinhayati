@@ -10,19 +10,16 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 
-googleAnalytics: 
-
 minify:
     disableXML: true
     minifyOutput: true
 
 params:
-    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    env: production
     title: Fikrin Hayatı
     description: "Fikrin Hayatı, hayata geçirilmiş olan fikirlerin, projelerin ve uygulamaların geliştirilme süreçlerini diğer girişimciler ile paylaşan proje."
     keywords: [girişimcilik, blog, fikrin hayatı]
     author: Me
-    # author: ["Me", "You"] # multiple authors
     images: ["<link or path of image for opengraph, twitter-cards>"]
     DateFormat: "2 January 2006"
     defaultTheme: auto # dark, light
@@ -55,9 +52,8 @@ params:
         icon: /apple-touch-icon.png
         iconHeight: 35
 
-    # profile-mode
     profileMode:
-        enabled: false # needs to be explicitly set
+        enabled: false
         title: Fikrin Hayatı
         subtitle: "This is subtitle"
         imageUrl: "<img location>"
@@ -70,7 +66,6 @@ params:
             - name: Tags
               url: tags
 
-    # home-info mode
     homeInfoParams:
         Title: "Merhaba \U0001F44B"
         Content: Fikrin Hayatı, hayata geçirilmiş olan fikirlerin, projelerin ve uygulamaların geliştirilme süreçlerini diğer girişimciler ile paylaşan proje. 
@@ -85,26 +80,16 @@ params:
         - name: linkedin
           url: "https://github.com/"
 
-    analytics:
-        google:
-            SiteVerificationTag: "XYZabc"
-        bing:
-            SiteVerificationTag: "XYZabc"
-        yandex:
-            SiteVerificationTag: "XYZabc"
-
     cover:
-        hidden: true # hide everywhere but not in structured data
-        hiddenInList: true # hide on list pages and home
-        hiddenInSingle: true # hide on single page
+        hidden: true
+        hiddenInList: true
+        hiddenInSingle: true
 
     editPost:
         URL: "https://github.com/<path_to_repo>/content"
-        Text: "Suggest Changes" # edit text
-        appendFilePath: true # to append file path to Edit link
+        Text: "Suggest Changes"
+        appendFilePath: true
 
-    # for search
-    # https://fusejs.io/api/options.html
     fuseOpts:
         isCaseSensitive: false
         shouldSort: true
@@ -119,12 +104,3 @@ menu:
           name: Etiketler
           url: /tags/
           weight: 10
-# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
-# pygmentsUseClasses: true
-# markup:
-#     highlight:
-#         # anchorLineNos: true
-#         codeFences: true
-#         guessSyntax: true
-#         lineNos: true
-#         style: monokai
