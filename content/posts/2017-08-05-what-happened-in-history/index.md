@@ -5,6 +5,11 @@ tags: ["fikrin hayatı","girişimcilik","what happened today in history","yusuf 
 slug: "what-happened-in-history-uygulamasi-fikrin-hayati-roportaji-yusuf-demirci"
 summary: Belirli bir günde tarihte olan olayları gösteren uygulama.
 author: "Abdullah Şahin"
+cover:
+    image: "what-happened-in-history-uygulamasi-fikrin-hayati-roportaji-yusuf-demirci.jpg"
+    alt: "what happened in history uygulaması fikrin hayatı röportajı yusuf demirci"
+    caption: "<text>"
+    relative: false # To use relative path for cover image, used in hugo Page-bundles
 showToc: true
 TocOpen: false
 draft: false
