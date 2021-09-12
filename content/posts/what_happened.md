@@ -1,7 +1,7 @@
 ---
 title: "What Happened Today in History Uygulaması"
 date: 2017-08-05
-tags: ["fikrin hayatı","girişimcilik","what happened today in history","yusuf demirci"]
+tags: ["fikrin hayatı","girişimcilik","what happened today in history","yusuf demirci","mobil uygulama"]
 slug: "what-happened-in-history-uygulamasi-fikrin-hayati-roportaji-yusuf-demirci"
 author: "Abdullah Şahin"
 showToc: true

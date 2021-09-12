@@ -1,7 +1,7 @@
 ---
 title: "Wordgraphy Uygulaması"
 date: 2017-08-31
-tags: ["fikrin hayatı","girişimcilik","wordgraphy","alper iskender"]
+tags: ["fikrin hayatı","girişimcilik","wordgraphy","alper iskender","mobil uygulama"]
 slug: "wordgraphy-uygulamasi-fikrin-hayati-roportaji-alper-iskender"
 author: "Abdullah Şahin"
 showToc: true

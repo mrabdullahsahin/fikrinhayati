@@ -1,7 +1,7 @@
 ---
 title: "Koin Uygulaması"
 date: 2017-09-02
-tags: ["fikrin hayatı","girişimcilik","koin","göksel köksal"]
+tags: ["fikrin hayatı","girişimcilik","koin","göksel köksal","mobil uygulama"]
 slug: "koin-uygulamasi-fikrin-hayati-roportaji-goksel-koksal"
 author: "Abdullah Şahin"
 showToc: true
