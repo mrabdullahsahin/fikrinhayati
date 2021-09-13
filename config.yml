@@ -14,6 +14,17 @@ minify:
     disableXML: true
     minifyOutput: true
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+sitemap:
+  changefreq: "weekly"
+  priority: 0.5
+  filename: "sitemap.xml"
+
 params:
     env: production
     title: Fikrin Hayatı
@@ -37,14 +48,24 @@ params:
     showtoc: false
     tocopen: false
 
-    # assets:
+    assets:
         # disableHLJS: true # to disable highlight.js
-        # disableFingerprinting: true
+        disableFingerprinting: true
         # favicon: "<link / abs url>"
         # favicon16x16: "<link / abs url>"
         # favicon32x32: "<link / abs url>"
         # apple_touch_icon: "<link / abs url>"
         # safari_pinned_tab: "<link / abs url>"
+
+    Images:
+      maxSize: 2560
+      setSizes:
+        - 640
+        - 960
+        - 1280
+        - 1920
+        - 2560
+      sizes: '(min-width: 1023px) 780px, (min-width: 675px) 620px, 100vw'
 
     profileMode:
         enabled: false
@@ -73,8 +94,8 @@ params:
           url: "https://linkedin.com/company/fikrin-hayati"
 
     cover:
-        hidden: false
         linkFullImages: true
+        hidden: false
 
     editPost:
         URL: "https://github.com/mrabdullahsahin/fikrinhayati/blob/master/content"
