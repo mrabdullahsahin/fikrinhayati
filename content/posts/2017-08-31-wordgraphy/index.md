@@ -91,3 +91,7 @@ Mayıs 2017- Oyunu hayata geçirmeye karar verip, işe koyulmam.
 10 Ağustos 2017 - Wordgraphy Appstore'da yayın hayatına başladı.
 
 Uygulamayı [App Store'dan](https://itunes.apple.com/us/app/wordgraphy/id1231595810?mt=8) indirebilirsiniz.
+
+___
+Herhangi bir sorunuz, geri bildiriminiz veya bir sonraki röportajın kiminle olmasını istediğinizi belirtmek için lütfen Twitter'dan bizimle paylaşmaktan çekinmeyin: **[@fikrinhayati](https://twitter.com/fikrinhayati)**
+___

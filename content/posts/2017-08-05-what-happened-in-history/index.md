@@ -77,3 +77,7 @@ Bir tasarımcı ve bir backend geliştiricinin olması projeyi çok daha güzel 
 İnsanlar kendilerini geliştirmek istiyorlarsa yapamam dedikleri işten başlamaları gerekiyor.
 
 Uygulamaya [Product Hunt](https://www.producthunt.com/posts/what-happened-today-in-history) sayfasında upvote vererek destek olabilir. Aynı zamanda [App Store'dan](https://itunes.apple.com/us/app/what-happened-today-in-history/id1244529732?l=tr&mt=8) indirebilirsiniz.
+
+___
+Herhangi bir sorunuz, geri bildiriminiz veya bir sonraki röportajın kiminle olmasını istediğinizi belirtmek için lütfen Twitter'dan bizimle paylaşmaktan çekinmeyin: **[@fikrinhayati](https://twitter.com/fikrinhayati)**
+___

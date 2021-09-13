@@ -88,3 +88,7 @@ Yeterli populariteniz ve “marketing” ağınız yoksa ağzınızla kuş da tu
 * Tasarım <-> Geri Bildirim
 * Geliştirme <-> Kullanıcı Testi (Tasarım Güncelleme)
 * Market!
+
+___
+Herhangi bir sorunuz, geri bildiriminiz veya bir sonraki röportajın kiminle olmasını istediğinizi belirtmek için lütfen Twitter'dan bizimle paylaşmaktan çekinmeyin: **[@fikrinhayati](https://twitter.com/fikrinhayati)**
+___
