@@ -9,7 +9,7 @@ cover:
     image: "koin-uygulamasi-fikrin-hayati-roportaji-goksel-koksal.jpg"
     alt: "koin uygulaması fikrin hayatı röportajı göksel koksal"
     caption: "<text>"
-    relative: false # To use relative path for cover image, used in hugo Page-bundles
+    relative: true # To use relative path for cover image, used in hugo Page-bundles
 showToc: true
 TocOpen: false
 draft: false

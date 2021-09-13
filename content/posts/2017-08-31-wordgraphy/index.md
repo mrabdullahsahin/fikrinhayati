@@ -9,7 +9,7 @@ cover:
     image: "wordgraphy-uygulamasi-fikrin-hayati-roportaji-alper-iskender.jpg"
     alt: "wordgraphy uygulaması fikrin hayatı röportajı alper iskender"
     caption: "<text>"
-    relative: false # To use relative path for cover image, used in hugo Page-bundles
+    relative: true # To use relative path for cover image, used in hugo Page-bundles
 showToc: true
 TocOpen: false
 draft: false

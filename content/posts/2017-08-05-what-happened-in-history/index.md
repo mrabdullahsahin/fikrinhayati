@@ -9,7 +9,7 @@ cover:
     image: "what-happened-in-history-uygulamasi-fikrin-hayati-roportaji-yusuf-demirci.jpg"
     alt: "what happened in history uygulaması fikrin hayatı röportajı yusuf demirci"
     caption: "<text>"
-    relative: false # To use relative path for cover image, used in hugo Page-bundles
+    relative: true # To use relative path for cover image, used in hugo Page-bundles
 showToc: true
 TocOpen: false
 draft: false
