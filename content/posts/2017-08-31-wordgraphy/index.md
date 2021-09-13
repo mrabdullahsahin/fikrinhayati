@@ -8,7 +8,7 @@ author: "Abdullah Şahin"
 cover:
     image: "wordgraphy-uygulamasi-fikrin-hayati-roportaji-alper-iskender.jpg"
     alt: "wordgraphy uygulaması fikrin hayatı röportajı alper iskender"
-    caption: "<text>"
+    # caption: "<text>"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 showToc: true
 TocOpen: false
