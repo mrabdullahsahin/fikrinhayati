@@ -23,17 +23,17 @@ searchHidden: true
 
 ### Bize kendinizden bahsedebilir misiniz? Kimsiniz, ne yapıyorsunuz?
 
-Merhaba ben Göksel. Yazılım geliştiriciyim ve 5 senedir iOS platformunda geliştirme yapıyorum. Çalıştığım şirketi ilk 1 sene ikna etmek zor olsa da çıktığı günden beri Swift yazıyorum. Yazılım mimarisi ve temiz kod konusunda [yazmayı severim](https://medium.com/@gokselkoksal). Bilkent Üniversitesi Bilgisayar Mühendisliği mezunuyum. Ankara’da Mobil Atölye ve İstanbul’da Monitise’da (eski Pozitron'da) çalıştıktan sonra 6 ay önce evlenerek Dublin’e taşındım ve Verizon’da çalışmaya başladım.
+Merhaba ben Göksel. Yazılım geliştiriciyim ve 5 senedir iOS platformunda geliştirme yapıyorum. Çalıştığım şirketi ilk 1 sene ikna etmek zor olsa da çıktığı günden beri Swift yazıyorum. Yazılım mimarisi ve temiz kod konusunda {{< a_blank title="yazmayı severim" url="https://medium.com/@gokselkoksal" >}}. Bilkent Üniversitesi Bilgisayar Mühendisliği mezunuyum. Ankara’da Mobil Atölye ve İstanbul’da Monitise’da (eski Pozitron'da) çalıştıktan sonra 6 ay önce evlenerek Dublin’e taşındım ve Verizon’da çalışmaya başladım.
 
 ### Fikrinizden bahsedebilir misiniz?
 
-Bizim fikrimiz basit bir döviz kuru çevirici. İsmi [Koin](https://itunes.apple.com/us/app/koin-simple-currency-converter/id1057039641), hemen şu an App Store’dan indirebilirsiniz. İnanılmaz yenilikçiyiz gibi bir iddiamız kesinlikle yok. Mütevazi ve ufak ama bir o kadar da güzel gözüken ve kullanışlı bir uygulama yapmaktı amacımız. Bunu da başardığımızı düşünüyorum. Kısaca; Koin ile çok kullandığınız döviz kurları arasında hızlıca çeviri yapabiliyorsunuz. Kur değerleri saatlik olarak güncelleniyor ve cihazınızda saklanıyor. Bu sayede yurtdışında internet paketinizin olmadığı bir ortamda bile saklanmış en güncel değerlere göre döviz çevirisi yapabiliyorsunuz. Hedef kitlemiz de çok seyahat ve alışveriş eden, farklı kurlarla ile uğraşan insanlar tabi ki.
+Bizim fikrimiz basit bir döviz kuru çevirici. İsmi {{< a_blank title="Koin" url="https://itunes.apple.com/us/app/koin-simple-currency-converter/id1057039641" >}}, hemen şu an App Store’dan indirebilirsiniz. İnanılmaz yenilikçiyiz gibi bir iddiamız kesinlikle yok. Mütevazi ve ufak ama bir o kadar da güzel gözüken ve kullanışlı bir uygulama yapmaktı amacımız. Bunu da başardığımızı düşünüyorum. Kısaca; Koin ile çok kullandığınız döviz kurları arasında hızlıca çeviri yapabiliyorsunuz. Kur değerleri saatlik olarak güncelleniyor ve cihazınızda saklanıyor. Bu sayede yurtdışında internet paketinizin olmadığı bir ortamda bile saklanmış en güncel değerlere göre döviz çevirisi yapabiliyorsunuz. Hedef kitlemiz de çok seyahat ve alışveriş eden, farklı kurlarla ile uğraşan insanlar tabi ki.
 
 Kendi sosyal ağlarımızda paylaşmak dışında bir marketing aktivitemiz olmadı. Aşağı yukarı 2 sene içerisinde 6300 indirilme aldık. Henüz 5 yıldız dışında bir değerlendirme aldığımız olmadı markette. (Hayır, hepsi tanıdık değil.)
 
 ### Fikri kaç kişi ile birlikte geliştirdiniz ve kimler hangi pozisyonda yer aldı?
 
-Tasarımı [Ebru](https://dribbble.com/ebruhu), geliştirmeyi ben yaptım. Ebru benim ilkokul arkadaşım. Lise ve üniversiteyi aynı yerlerde okuyamasak da son 6 aya kadar aynı şirketlerde çalışıyorduk. Şu anda da eski şirketim olan Monitise'da tasarımcı olarak çalışmaya devam ediyor.
+Tasarımı {{< a_blank title="Ebru" url="https://dribbble.com/ebruhu" >}}, geliştirmeyi ben yaptım. Ebru benim ilkokul arkadaşım. Lise ve üniversiteyi aynı yerlerde okuyamasak da son 6 aya kadar aynı şirketlerde çalışıyorduk. Şu anda da eski şirketim olan Monitise'da tasarımcı olarak çalışmaya devam ediyor.
 
 ### Fikrin planını nasıl yaptınız, bitiş tarihlerini belirlerken nelere dikkat ettiniz? Bitiş tarihleri nelerdi?
 
@@ -47,22 +47,22 @@ Tüm projeyi Trello, Dropbox ve Telegram üzerinden yürüttük diyebilirim.
 
 ### Fikrin tasarım/geliştirme sürecinde hangi araçları/kütüphaneleri kullandınız ve nasıl bir süreç izlediniz?
 
-Döviz kurları için [currencylayer](http://www.currencylayer.com).
+Döviz kurları için {{< a_blank title="currencylayer" url="http://www.currencylayer.com" >}}.
 
-Tasarım için [Sketch](https://www.sketchapp.com/).
+Tasarım için {{< a_blank title="Sketch" url="https://www.sketch.com/" >}}.
 
-Geliştirme içinse tabi ki Xcode ve Swift.
+Geliştirme içinse tabi ki {{< a_blank title="Xcode" url="https://developer.apple.com/xcode/" >}} ve {{< a_blank title="Swift" url="https://developer.apple.com/swift/" >}}.
 
 Kullandığım kütüphaneler:
-* [Alamofire](https://github.com/Alamofire/Alamofire)
-* [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
-* [DateTools](https://github.com/MatthewYork/DateTools)
-* [FLKAutoLayout](https://github.com/floriankugler/FLKAutoLayout)
-* [GKValidator :)](https://github.com/gokselkoksal/GKValidator)
-* [iRate](https://github.com/nicklockwood/iRate)
+* {{< a_blank title="Alamofire" url="https://github.com/Alamofire/Alamofire" >}}
+* {{< a_blank title="SwiftyJSON" url="https://github.com/SwiftyJSON/SwiftyJSON" >}}
+* {{< a_blank title="DateTools" url="https://github.com/MatthewYork/DateTools" >}}
+* {{< a_blank title="FLKAutoLayout" url="https://github.com/floriankugler/FLKAutoLayout" >}}
+* {{< a_blank title="GKValidator" url="https://github.com/gokselkoksal/GKValidator" >}}
+* {{< a_blank title="iRate" url="https://github.com/nicklockwood/iRate" >}}
 * pop
-* [PromiseKit](https://github.com/mxcl/PromiseKit)
-* Realm
+* {{< a_blank title="PromiseKit" url="https://github.com/mxcl/PromiseKit" >}}
+* {{< a_blank title="Realm" url="https://realm.io/" >}}
 
 Dışardan kullandığım kütüphaneler konusunda biraz hassasım. Birşeyi kendim yazmak bana çok zaman kaybettirmeyecekse genellikle kendim yazmayı tercih ediyorum. Her kütüphane kendi kısıtları ile beraber geliyor ve genellikle sadece ufak bir kısmı kullanılıyor. Xcode ve Swift versiyon değişikliklerinde kütüphanenin güncellenmeme ihtimali de tam bir kabus. Bu nedenle “gerçekten” ihtiyacım olduğuna inanmam gerekiyor eklemeden önce. Paylaştığım liste uzun gibi gözükse de hepsi bu değerlendirmeden geçmiş kütüphaneler.
 
@@ -84,11 +84,11 @@ Yeterli populariteniz ve “marketing” ağınız yoksa ağzınızla kuş da tu
 
 ### Fikrinizin sürecini adım adım özetleyebilir misiniz? (Bonus Soru)
 
-* Örnekleme (Prototyping): Bu kısım çok önemli. Ürünün kullanılabilirliğini test etmek için sadece bir kağıda ihtiyacınız var. Telefon büyüklüğünde birkaç kağıda aklınızdakini çizin ve test edin. Mesela: [Travellr Paper Prototype](https://www.youtube.com/watch?v=_5FGeSQ7DBU)
+* Örnekleme (Prototyping): Bu kısım çok önemli. Ürünün kullanılabilirliğini test etmek için sadece bir kağıda ihtiyacınız var. Telefon büyüklüğünde birkaç kağıda aklınızdakini çizin ve test edin. Mesela: {{< a_blank title="Travellr Paper Prototype" url="https://www.youtube.com/watch?v=_5FGeSQ7DBU" >}}
 * Tasarım <-> Geri Bildirim
 * Geliştirme <-> Kullanıcı Testi (Tasarım Güncelleme)
 * Market!
 
 ___
-Herhangi bir sorunuz, geri bildiriminiz veya bir sonraki röportajın kiminle olmasını istediğinizi belirtmek için lütfen Twitter'dan bizimle paylaşmaktan çekinmeyin: **[@fikrinhayati](https://twitter.com/fikrinhayati)**
+Herhangi bir sorunuz, geri bildiriminiz veya bir sonraki röportajın kiminle olmasını istediğinizi belirtmek için lütfen Twitter'dan bizimle paylaşmaktan çekinmeyin: **{{< a_blank title="@fikrinhayati" url="https://twitter.com/fikrinhayati" >}}**
 ___
