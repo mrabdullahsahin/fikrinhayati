@@ -10,8 +10,6 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 
-googleAnalytics: G-D97060RCGM
-
 minify:
     disableXML: true
     minifyOutput: true
