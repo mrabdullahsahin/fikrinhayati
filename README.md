@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://fikrinhayati.com/" target="_blank"><img src="https://github.com/mrabdullahsahin/fikrinhayati/blob/master/readme-files/fikrin-hayati-logo.jpg" alt="Fikrin Hayatı"></a>
+  <a href="https://fikrinhayati.com/" target="_blank"><img width="50%" src="https://github.com/mrabdullahsahin/fikrinhayati/blob/master/readme-files/fikrin-hayati-cover.jpg" alt="Fikrin Hayatı"></a>
   <br>
   <br>
 </h1>
