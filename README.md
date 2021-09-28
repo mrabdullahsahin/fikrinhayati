@@ -71,7 +71,7 @@ Bu içerikten alıntı yapmak için lütfen şunu kullanın:
 @misc{fikrinhayati,
     yazar       = {Abdullah Şahin},
     başlık      = {Fikrin Hayatı},
-    site = {\url{https://fikrinhayati.com/}},
+    site        = {\url{https://fikrinhayati.com/}},
     yıl         = {2021}
 }
 ```
