@@ -50,7 +50,7 @@ Eğer **teşekkür etmek** veya `Fikrin Hayatı`'nın aktif geliştirilmesini de
 
 2. [Twitter hesabınızdan](https://twitter.com/intent/tweet?url=https%3A%2F%2Ffikrinhayati.com%2F&via=%40fikrinhayati&text=Fikrin%20Hayat%u0131%2C%20hayata%20ge%E7irilmi%u015F%20olan%20fikirlerin%2C%20projelerin%20ve%20uygulamalar%u0131n%20geli%u015Ftirilme%20s%FCre%E7lerini%20giri%u015Fimciler%20ile%20payla%u015Fan%20projedir.) proje hakkında tweet atabilirsiniz.
 
-3. <a href="https://github.com/mrabdullahsahin/fikrinhayati/issues" target="_blank">issues</a> kısmından veya <a href="https://twitter.com/fikrinhayati" target="_blank">Twitter</a> üzerinden bizi etiketleyerek ropörtaj yapılabilecek kişiler ve projeler ile ilgili önerilerde bulunabilirsiniz
+3. <a href="https://github.com/mrabdullahsahin/fikrinhayati/issues" target="_blank">issues</a> kısmından veya <a href="https://twitter.com/fikrinhayati" target="_blank">Twitter</a> üzerinden bizi etiketleyerek röportaj yapılabilecek kişiler ve projeler ile ilgili önerilerde bulunabilirsiniz
 
 <br>
 
