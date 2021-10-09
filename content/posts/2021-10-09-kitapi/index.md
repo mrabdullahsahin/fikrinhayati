@@ -6,7 +6,7 @@ slug: "kitapi-projesi-fikrin-hayati-roportaji-hasan-civelek"
 summary: Ücretsiz Sosyal Kütüphane Otomasyonu.
 author: "Abdullah Şahin"
 cover:
-    image: "kitapi-projesi-fikrin-hayati-roportaji-hasan-civelek.jpg"
+    image: "kitapi-fikrin-hayati-roportaji-hasan-civelek.jpg"
     alt: "kitapi projesi fikrin hayatı röportajı hasan civelek"
     # caption: "<text>"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
