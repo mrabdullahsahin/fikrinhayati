@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://fikrinhayati.com/posts/504-absolutely-essential-words-yusuf-demirci/</loc>
+    <lastmod>2021-10-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://fikrinhayati.com/tags/504-absolutely-essential-words/</loc>
+    <lastmod>2021-10-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://fikrinhayati.com/</loc>
     <lastmod>2021-10-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -32,6 +42,11 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://fikrinhayati.com/tags/mobil-uygulama/</loc>
+    <lastmod>2021-10-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://fikrinhayati.com/posts/</loc>
     <lastmod>2021-10-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -47,6 +62,11 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://fikrinhayati.com/tags/yusuf-demirci/</loc>
+    <lastmod>2021-10-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://fikrinhayati.com/tags/g%C3%B6ksel-k%C3%B6ksal/</loc>
     <lastmod>2017-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -58,11 +78,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://fikrinhayati.com/posts/koin-uygulamasi-fikrin-hayati-roportaji-goksel-koksal/</loc>
-    <lastmod>2017-09-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://fikrinhayati.com/tags/mobil-uygulama/</loc>
     <lastmod>2017-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -92,17 +107,16 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://fikrinhayati.com/tags/yusuf-demirci/</loc>
-    <lastmod>2017-08-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://fikrinhayati.com/posts/fikrin-hayati-roportaji-abdullah-sahin/</loc>
     <lastmod>2017-08-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://fikrinhayati.com/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://fikrinhayati.com/hikayeni-paylas/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
