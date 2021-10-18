@@ -1,7 +1,7 @@
 baseURL: "https://fikrinhayati.com/"
 title: Fikrin Hayatı
 DefaultContentLanguage: "tr"
-paginate: 5
+paginate: 99
 theme: PaperMod
 
 enableRobotsTXT: true
