@@ -114,7 +114,13 @@ params:
         keys: ["title", "permalink", "summary", "content"]
 menu:
     main:
+        - identifier: hikayeni-paylas
+          name: Hikayeni Paylaş
+          url: /hikayeni-paylas/
+          weight: 10
+
         - identifier: tags
           name: Etiketler
           url: /tags/
-          weight: 10
+          weight: 20
+
