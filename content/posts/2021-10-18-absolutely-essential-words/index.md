@@ -1,6 +1,6 @@
 ---
 title: "504 Absolutely Essential Words"
-date: 2021-10-09
+date: 2021-10-18
 tags: ["fikrin hayatı","girişimcilik","504 Absolutely Essential Words ","yusuf demirci","mobil uygulama"]
 slug: "504-absolutely-essential-words-yusuf-demirci"
 summary: Günlük hayatta en çok kullanılan 504 İngilizce kelime uygulaması.
