@@ -25,6 +25,8 @@ Fikrin Hayatı'nın daha çok insana ulaşması ve fayda sağlaması konusunda s
 
 - İçeriğinizi yazabilidğiniz kadar yazdıktan sonra gönderik, süreç içerisinde tekrar güncelleyebiliriz, ne de olsa dükkan bizim.
 
+- İçeriğinizi hazırlarken yazım, imla ve noktalama işaretlerine dikkat etmeniz gerekiyor. Bu durum okurken güzel bir deneyim yaşamak adına önemli.
+
 ### Size ne tür bir fayda sağlayacak?
 
 - Projenizin diğer insanlar tarafından haberdar olmasını sağlayacaktır.
