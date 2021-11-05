@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>JusTerm on Fikrin Hayatı</title>
+    <link>https://fikrinhayati.com/tags/justerm/</link>
+    <description>Recent content in JusTerm on Fikrin Hayatı</description>
+    <image>
+      <url>https://fikrinhayati.com/</url>
+      <link>https://fikrinhayati.com/</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 05 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fikrinhayati.com/tags/justerm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JusTerm</title>
+      <link>https://fikrinhayati.com/posts/justerm-mert-toptas/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fikrinhayati.com/posts/justerm-mert-toptas/</guid>
+      <description>İngilizce Hukuk Sözlüğü uygulaması.</description>
+    </item>
+    
+  </channel>
+</rss>
