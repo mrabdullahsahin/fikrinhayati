@@ -9,7 +9,16 @@
       <link>https://fikrinhayati.com/</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 05 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fikrinhayati.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fikrinhayati.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Subcap</title>
+      <link>https://fikrinhayati.com/posts/subcap/</link>
+      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fikrinhayati.com/posts/subcap/</guid>
+      <description>Otomatik Altyazı Oluşturucu uygulaması</description>
+    </item>
+    
     <item>
       <title>JusTerm</title>
       <link>https://fikrinhayati.com/posts/justerm-mert-toptas/</link>
