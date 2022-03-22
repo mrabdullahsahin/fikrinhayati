@@ -3,26 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://fikrinhayati.com/</loc>
-    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://fikrinhayati.com/tags/fikrin-hayat%C4%B1/</loc>
-    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://fikrinhayati.com/tags/giri%C5%9Fimcilik/</loc>
-    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://fikrinhayati.com/tags/mobil-uygulama/</loc>
-    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://fikrinhayati.com/posts/</loc>
+    <lastmod>2022-03-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://fikrinhayati.com/tags/producter/</loc>
+    <lastmod>2022-03-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://fikrinhayati.com/posts/producter/</loc>
+    <lastmod>2022-03-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://fikrinhayati.com/tags/saas/</loc>
+    <lastmod>2022-03-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://fikrinhayati.com/tags/</loc>
+    <lastmod>2022-03-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://fikrinhayati.com/tags/mobil-uygulama/</loc>
     <lastmod>2022-02-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -33,11 +53,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://fikrinhayati.com/posts/subcap/</loc>
-    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://fikrinhayati.com/tags/</loc>
     <lastmod>2022-02-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
