@@ -24,8 +24,11 @@
 
 # 👨‍💻 Kullanılan Teknolojiler
 
-* <a href="https://golang.org/" target="_blank">Go</a>
-* <a href="https://gohugo.io/" target="_blank">Hugo</a>
+- <a href="https://astro.build/" target="_blank">Astro</a>
+
+# Kullanılan Tema
+
+- - <a href="https://github.com/themefisher/bookworm-light-astro" target="_blank">Bookworm Light Astro</a>
 
 <br>
 
@@ -33,12 +36,13 @@
 
 Projeyi klonla;
 
-	git clone https://github.com/mrabdullahsahin/fikrinhayati.git
-	cd fikrinhayati
+    git clone https://github.com/mrabdullahsahin/fikrinhayati.git
+    cd fikrinhayati
 
 Projeyi ayağa kaldır;
 
-	hugo server -D
+    npm install
+    npm run dev
 
 <br>
 
@@ -55,6 +59,7 @@ Eğer **teşekkür etmek** veya `Fikrin Hayatı`'nın aktif geliştirilmesini de
 <br>
 
 # ⚠️ Lisans
+
 <a href="https://github.com/mrabdullahsahin/fikrinhayati/blob/master/LICENSE" target="_blank">
     <img src="https://img.shields.io/github/license/mrabdullahsahin/fikrinhayati" alt="GitHub license">
 </a>
