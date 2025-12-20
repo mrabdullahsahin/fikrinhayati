@@ -1,0 +1,39 @@
+{
+  "site": {
+    "title": "Fikrin Hayatı",
+    "base_url": "https://fikrinhayati.com",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.ico",
+    "logo": "/images/logo.png",
+    "logo_width": "200",
+    "logo_height": "34",
+    "logo_text": "Fikrin Hayatı Logo"
+  },
+
+  "settings": {
+    "pagination": 99
+  },
+
+  "metadata": {
+    "meta_author": "Fikrin Hayatı",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Fikrin Hayatı, hayata geçirilmiş olan fikirlerin, projelerin ve uygulamaların geliştirilme süreçlerini girişimciler ile paylaşan projedir."
+  },
+
+  "google_tag_manager": {
+    "enable": false,
+    "gtm_id": "GTM-XXXXXX"
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "Copyright © 2025 Fikrin Hayatı"
+  },
+
+  "contactinfo": {
+    "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
+    "email": "info@bookworm.org",
+    "phone": "+800 567 1234"
+  }
+}

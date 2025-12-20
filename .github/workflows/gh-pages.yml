@@ -2,41 +2,38 @@ name: Build GH-Pages
 
 on:
   push:
-    paths-ignore:
-      - 'images/**'
-      - 'LICENSE'
-      - 'README.md'
     branches:
       - master
+    paths-ignore:
+      - "images/**"
+      - "LICENSE"
+      - "README.md"
   workflow_dispatch:
-    # manual run
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Git checkout
-        uses: actions/checkout@v2
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          ref: master
+          node-version: 20
+          cache: npm
 
-      - name: Get Theme
-        run: git submodule update --init --recursive
+      - name: Install dependencies
+        run: npm ci
 
-      - name: Update theme to Latest commit
-        run: git submodule update --remote --merge
+      - name: Build Astro site
+        run: npm run build
+        # veya: npx astro build
 
-      - name: Setup hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: 'latest'
-
-      - name: Build
-        run: hugo --buildDrafts --gc --verbose --minify
-
-      - name: Deploy
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.FHSECRET }}
-          publish_dir: ./public
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
           cname: fikrinhayati.com

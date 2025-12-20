@@ -1,0 +1,30 @@
+{
+  "main": [
+    {
+      "name": "Ana Sayfa",
+      "url": "/"
+    },
+    {
+      "name": "Hakkımızda",
+      "url": "/hakkimizda"
+    },
+    {
+      "name": "Hikayeni Paylaş",
+      "url": "/hikayeni-paylas"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Ana Sayfa",
+      "url": "/"
+    },
+    {
+      "name": "Hakkımızda",
+      "url": "/hakkimizda"
+    },
+    {
+      "name": "Hikayeni Paylaş",
+      "url": "/hikayeni-paylas"
+    }
+  ]
+}
