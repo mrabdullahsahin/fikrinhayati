@@ -1,61 +1,30 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Ana Sayfa",
       "url": "/"
     },
     {
-      "name": "About",
-      "url": "/about"
+      "name": "Hakkımızda",
+      "url": "/hakkimizda"
     },
     {
-      "name": "Contact",
-      "url": "/contact"
-    },
-    {
-      "name": "Pages",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Authors",
-          "url": "/authors"
-        },
-        {
-          "name": "Categories",
-          "url": "/categories"
-        },
-        {
-          "name": "Tags",
-          "url": "/tags"
-        },
-        {
-          "name": "Elements",
-          "url": "/elements"
-        },
-        {
-          "name": "Privacy Policy",
-          "url": "/privacy-policy"
-        }
-      ]
+      "name": "Hikayeni Paylaş",
+      "url": "/hikayeni-paylas"
     }
   ],
   "footer": [
     {
-      "name": "About",
-      "url": "/about"
+      "name": "Ana Sayfa",
+      "url": "/"
     },
     {
-      "name": "Contact",
-      "url": "/contact"
+      "name": "Hakkımızda",
+      "url": "/hakkimizda"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
-    },
-    {
-      "name": "Privacy Policy",
-      "url": "/privacy-policy"
+      "name": "Hikayeni Paylaş",
+      "url": "/hikayeni-paylas"
     }
   ]
 }
