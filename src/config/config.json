@@ -1,24 +1,24 @@
 {
   "site": {
-    "title": "Bookworm Light Astro | Blog Template",
-    "base_url": "https://bookworm-light-astro.vercel.app",
+    "title": "Fikrin Hayatı",
+    "base_url": "https://fikrinhayati.com",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
+    "favicon": "/images/favicon.ico",
     "logo": "/images/logo.png",
     "logo_width": "200",
     "logo_height": "34",
-    "logo_text": "Bookworm Light"
+    "logo_text": "Fikrin Hayatı Logo"
   },
 
   "settings": {
-    "pagination": 5
+    "pagination": 99
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "Fikrin Hayatı",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Bookworm Light Astro Blog Template"
+    "meta_description": "Fikrin Hayatı, hayata geçirilmiş olan fikirlerin, projelerin ve uygulamaların geliştirilme süreçlerini girişimciler ile paylaşan projedir."
   },
 
   "google_tag_manager": {
@@ -28,7 +28,7 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Copyright © 2025 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": "Copyright © 2025 Fikrin Hayatı"
   },
 
   "contactinfo": {
