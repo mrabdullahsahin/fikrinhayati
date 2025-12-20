@@ -4,7 +4,7 @@ meta_title: ""
 description: "Hayata geçirilmiş olan fikirlerin, projelerin ve uygulamaların geliştirilme süreçlerini girişimciler ile paylaşan projedir."
 date: 2017-08-03
 image: "/images/posts/fikrin-hayati-roportaji-abdullah-sahin.jpg"
-categories: ["art"]
+categories: ["Web"]
 authors: ["Abdullah Sahin"]
 tags:
   [

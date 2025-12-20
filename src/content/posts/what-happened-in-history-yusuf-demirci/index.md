@@ -4,7 +4,7 @@ meta_title: ""
 description: "Hayata geçirilmiş olan fikirlerin, projelerin ve uygulamaların geliştirilme süreçlerini girişimciler ile paylaşan projedir."
 date: 2017-08-05
 image: "/images/posts/what-happened-in-history-uygulamasi-fikrin-hayati-roportaji-yusuf-demirci.jpg"
-categories: ["art"]
+categories: ["iOS"]
 authors: ["Abdullah Sahin"]
 tags:
   [

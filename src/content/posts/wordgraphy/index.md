@@ -4,7 +4,7 @@ meta_title: ""
 description: "Wordgraphy, harf grupları kuralıyla oyuncunun hamle seçeneklerini kısıtlayarak oyuncuyu alternatif kelimeler düşünmeye teşvik eden bir kelime oyunu."
 date: 2017-08-31
 image: "/images/posts/wordgraphy-uygulamasi-fikrin-hayati-roportaji-alper-iskender.jpg"
-categories: ["art"]
+categories: ["iOS"]
 authors: ["Abdullah Sahin"]
 tags:
   [

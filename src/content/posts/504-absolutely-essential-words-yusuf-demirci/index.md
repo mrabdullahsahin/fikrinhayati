@@ -4,7 +4,7 @@ meta_title: "Günlük hayatta en çok kullanılan 504 İngilizce kelime uygulama
 description: "Günlük hayatta en çok kullanılan 504 İngilizce kelime uygulaması."
 date: 2021-10-18
 image: "/images/posts/504-absolutely-essential-words-yusuf-demirci/504-absolutely-essential-words-yusuf-demirci.jpg"
-categories: ["art"]
+categories: ["iOS"]
 authors: ["Abdullah Sahin"]
 tags:
   [

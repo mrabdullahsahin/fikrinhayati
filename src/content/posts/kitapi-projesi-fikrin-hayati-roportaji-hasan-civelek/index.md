@@ -4,7 +4,7 @@ meta_title: "Ücretsiz Sosyal Kütüphane Otomasyonu."
 description: "Ücretsiz Sosyal Kütüphane Otomasyonu."
 date: 2021-10-09
 image: "/images/posts/kitapi-projesi-fikrin-hayati-roportaji-hasan-civelek/kitapi-fikrin-hayati-roportaji-hasan-civelek.jpg"
-categories: ["art"]
+categories: ["SaaS"]
 authors: ["Abdullah Sahin"]
 tags:
   ["fikrin hayatı", "girişimcilik", "kitapi", "hasan civelek", "web projesi"]

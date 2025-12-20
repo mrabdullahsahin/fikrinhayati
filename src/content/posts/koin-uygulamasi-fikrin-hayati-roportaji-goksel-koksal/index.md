@@ -4,7 +4,7 @@ meta_title: "Döviz kuru çevirici uygulaması."
 description: "Döviz kuru çevirici uygulaması."
 date: 2017-09-02
 image: "/images/posts/koin-uygulamasi-fikrin-hayati-roportaji-goksel-koksal.jpg"
-categories: ["art"]
+categories: ["iOS"]
 authors: ["Abdullah Sahin"]
 tags:
   ["fikrin hayatı", "girişimcilik", "koin", "göksel köksal", "mobil uygulama"]

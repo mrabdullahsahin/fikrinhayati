@@ -4,7 +4,7 @@ meta_title: ""
 description: "Otomatik Altyazı Oluşturucu uygulaması"
 date: 2022-02-11
 image: "/images/posts/subcap-zeynep-elif-ozdemir.jpg"
-categories: ["art"]
+categories: ["iOS"]
 authors: ["Abdullah Sahin"]
 tags:
   [

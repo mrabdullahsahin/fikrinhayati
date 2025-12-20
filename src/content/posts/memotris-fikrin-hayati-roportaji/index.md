@@ -4,7 +4,7 @@ meta_title: ""
 description: “TUS İçin Kelime Kartlarıyla Hafızayı Güçlendiren Akıllı Platform”
 date: 2025-12-19
 image: "/images/posts/memotris-fikrin-hayati-roportaji-burak-can.jpg"
-categories: ["art"]
+categories: ["SaaS"]
 authors: ["Abdullah Sahin"]
 tags: ["fikrin hayatı", "girisimcilik", "memotris", "burak can"]
 draft: false

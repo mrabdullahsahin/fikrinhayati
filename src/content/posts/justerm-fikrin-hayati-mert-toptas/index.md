@@ -4,7 +4,7 @@ meta_title: ""
 description: "İngilizce Hukuk Sözlüğü uygulaması."
 date: 2021-11-05
 image: "/images/posts/justerm-mert-toptas.jpg"
-categories: ["art"]
+categories: ["iOS"]
 authors: ["Abdullah Sahin"]
 tags:
   ["fikrin hayatı", "girisimcilik", "JusTerm", "mert toptas", "mobil uygulama"]

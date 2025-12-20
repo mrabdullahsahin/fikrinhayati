@@ -4,7 +4,7 @@ meta_title: ""
 description: "Ürün liderliğindeki ekipler için ürün yönetimi aracı"
 date: 2022-03-22
 image: "/images/posts/producter.jpeg"
-categories: ["art"]
+categories: ["SaaS"]
 authors: ["Abdullah Sahin"]
 tags:
   [
