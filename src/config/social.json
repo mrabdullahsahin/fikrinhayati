@@ -1,29 +1,19 @@
 {
   "main": [
     {
-      "name": "facebook",
-      "icon": "FaFacebook",
-      "link": "https://www.facebook.com/"
+      "name": "github",
+      "icon": "FaGithub",
+      "link": "https://github.com/mrabdullahsahin/fikrinhayati"
     },
     {
       "name": "X",
       "icon": "FaXTwitter",
-      "link": "https://x.com/"
-    },
-    {
-      "name": "instagram",
-      "icon": "FaInstagram",
-      "link": "https://www.instagram.com/"
+      "link": "https://x.com/fikrinhayati"
     },
     {
       "name": "linkedin",
       "icon": "FaLinkedin",
-      "link": "https://www.linkedin.com/"
-    },
-    {
-      "name": "YouTube",
-      "icon": "FaYoutube",
-      "link": "https://www.youtube.com/"
+      "link": "https://linkedin.com/company/fikrin-hayati"
     }
   ]
 }
