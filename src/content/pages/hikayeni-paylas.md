@@ -1,7 +1,7 @@
 ---
 title: "Hikayeni Paylaş"
 meta_title: "Hikayeni Paylaş"
-description: "this is meta description"
+description: ""
 draft: false
 ---
 
